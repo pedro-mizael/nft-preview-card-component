@@ -1,6 +1,6 @@
-# Frontend Mentor - Product preview card component solution
+# Frontend Mentor - NFT preview card component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -28,9 +28,9 @@ Usuários poderão:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/pedro-mizael/HTML-and-CSS-product-preview-card
+- Solution URL: [Github](https://github.com/pedro-mizael/nft-preview-card-component)
 )
-- Live Site URL: [Site](https://pedro-mizael.github.io/HTML-and-CSS-product-preview-card/)
+- Live Site URL: [Site](https://pedro-mizael.github.io/nft-preview-card-component/)
 
 ## My process
 
